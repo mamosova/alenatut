@@ -1,0 +1,34 @@
+{
+  "name": "tutorials",
+  "version": "1.0.0",
+  "description": "Tutorials for catalog on sap.com http://www.sap.com/developer/tutorials.html",
+  "main": "README.MD",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "node test.js -pt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAPDocuments/Tutorials.git"
+  },
+  "keywords": [
+    "sap",
+    "tutorials",
+    "github"
+  ],
+  "author": "SAP",
+  "bugs": {
+    "url": "https://github.com/SAPDocuments/Tutorials/issues"
+  },
+  "homepage": "https://github.com/SAPDocuments/Tutorials#readme",
+  "devDependencies": {
+    "color-log": "0.0.2",
+    "command-line-args": "^3.0.0",
+    "inquirer": "^1.0.3",
+    "markdown-link-check": "^1.0.1",
+    "markdown-spellcheck": "^0.10.0",
+    "mkdirp": "^0.5.1",
+    "progress": "^1.1.8",
+    "recursive-readdir": "^2.0.0"
+  }
+}
