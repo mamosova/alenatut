@@ -10,7 +10,7 @@ primary_tag: topic>abap-development
  - **Proficiency:** Intermediate
 
 ## Outline
-
+ 
 1. [Introduction and Navigator (this document)](http://go.sap.com/developer/tutorials/ci-best-practices-intro.html)  
 2. Continuous Integration and Delivery  
 2.1. [CI/CD Practices](http://go.sap.com/developer/tutorials/ci-best-practices-ci-cd.html)  
