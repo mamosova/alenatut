@@ -10,7 +10,7 @@ primary_tag: topic>abap-development
 
   - **Proficiency:** Intermediate
   
-
+ 
 ## Next Steps
  
   - [Artifact Repository](http://go.sap.com/developer/tutorials/ci-best-practices-artifacts.html)
