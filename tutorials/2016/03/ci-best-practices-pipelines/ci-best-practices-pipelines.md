@@ -8,7 +8,7 @@ primary_tag: topic>abap-development
 
 ## Prerequisites
 
-  - **Proficiency:** Intermediate
+  - **Proficiency:** Intermediate 
   - [CI/CD Practices](http://go.sap.com/developer/tutorials/ci-best-practices-ci-cd.html)
   
 ## Next Steps
