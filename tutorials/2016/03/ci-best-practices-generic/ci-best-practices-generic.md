@@ -21,7 +21,7 @@ primary_tag: topic>abap-development
 We will start by setting up the CI process for a pure Java project without any deployment. The build tool of choice is Maven. So on the local developer host, a Maven installation is a prerequisite. The general procedure is the following: first, a project in Gerrit is created together with the first branch, the main integration branch master. Then the (initially empty) repository is cloned on a local developer workplace, code is committed and pushed as a first commit in Gerrit. As the next step, a build voter is configured with Jenkins.
 
 #### Prerequisites
-
+ 
 - There is a developer workplace (PC) with the following installations:
     - Java JDK
     - Git
