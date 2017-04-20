@@ -16,7 +16,7 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 
 
 ## Next Steps
-
+ 
   - [Back to the Navigator](http://www.sap.com/developer/tutorials/ci-best-practices-intro.html)
   
 ---
