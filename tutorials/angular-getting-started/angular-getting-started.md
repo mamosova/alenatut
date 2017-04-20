@@ -29,6 +29,7 @@ Connect to the SAP Web IDE (free for development use), and then get a simple pro
 
 1.  Open your SAP Cloud Platform account (if you have a free developer account, click [HERE](https://account.hanatrial.ondemand.com/) to open the console.)
 
+
     >**Trouble logging in?** If you have trouble logging in to your SAP Cloud Platform Cockpit, and you are using a company account (one provided by your employer), it is possible that the Cloud access has been locked.  Create a new FREE trial account by clicking the link above, and use your personal email address to set up the new account.
 
     ![SAP Cloud Platform Developer Account Login Screen](1-1.png)
