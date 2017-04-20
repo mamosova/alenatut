@@ -34,7 +34,7 @@ In this guide we will discuss some basic principles for software development tha
 We noticed that customers seek for more guidance on an end-to-end CI process. SAP offers several tools to address single aspects.
 The goal of this guide is to provide recommendations that focus on the complete picture of a CI or CD process and how to set it
 up using widely adapted complementary tools. The choice of tools should be considered as examples. Other tools fulfilling the same purpose will work as well.
-
+ 
 We will examine the most important SAP technologies and describe how to use existing tools to set up a CI process that fits the individual needs of your development project, your requirements, and your environment.
 
 Just follow the step-by-step recipes we offer to set up and configure the needed technical components. Get guidance on how to orchestrate them to build a generic skeleton CI or CD process based on selected SAP technologies. We will work out the specifics of each technology and explain how to adopt the CI and CD approaches with the help of concrete examples or reference applications.
