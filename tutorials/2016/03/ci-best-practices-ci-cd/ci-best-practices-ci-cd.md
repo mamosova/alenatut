@@ -21,7 +21,7 @@ Continuous Integration (CI) and Continuous Delivery (CD) are both widely used in
 
 What exactly the latter means depends on the context. It could mean, for example, taking a web application feature productive or putting a software on a download site. The process is able to serve one-man-shops as well as multiple teams working on one product and it can be adjusted to the customers' individual requirements and constraints. It is also flexible in the sense, that you can decide "how agile" you want the delivery process to be, so there is no need to implement agile practices that might not suit the environment you are working in. At the same time you are free to expand the process as needed.
 
-In this section we will outline the practices for CI and CD.
+In this section we will outline the practices for CI and CD. 
 
 
 ### Continuous Integration, Delivery and Deployment
