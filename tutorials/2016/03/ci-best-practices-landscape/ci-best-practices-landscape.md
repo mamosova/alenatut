@@ -5,7 +5,7 @@ description: Part 3.4: Configuring the CI Component Landscape.
 tags: [  tutorial>intermediate, tutorial:type/project ]
 primary_tag: topic>abap-development
 ---
-
+ 
 ## Prerequisites  
 
   - **Proficiency:** Intermediate
