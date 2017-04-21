@@ -22,7 +22,7 @@ If you are interested in other examples of CI/CD processes with a focus on speci
 
 Note: This document is restricted to the description of component installation on Linux. For installation on Windows, we refer to the installation documentation on the web. 
 
-
+ 
 
 There are a lot of artifact repositories on the market that would fit our purposes. In this document, we will show how to integrate the open source version of Nexus into the CI process.
 
