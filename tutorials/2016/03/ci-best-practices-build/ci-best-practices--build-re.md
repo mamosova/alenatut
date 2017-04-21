@@ -25,7 +25,7 @@ If you are interested in other examples of CI/CD processes with a focus on speci
 Note: This document is restricted to the description of component installation on Linux. For installation on Windows, we refer to the installation documentation on the web.
 
 
-
+ 
 The build scheduler is the component in which build procedures are defined and builds can be triggered. One of the most popular build schedulers is Jenkins, but other solutions, especially on the cloud, are possible as well. 
 
 ### Jenkins Basics
