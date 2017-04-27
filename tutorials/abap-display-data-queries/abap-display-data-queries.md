@@ -4,7 +4,7 @@ description: Use Data Preview to display the content of tables and views and SQL
 tags: [  tutorial>beginner, topic>abap-development, tutorial>t2 ]
 primary_tag: topic>abap-development
 ---
-
+ 
 ## Prerequisites  
  [Create an ABAP project in Eclipse](http://www.sap.com/developer/tutorials/abap-create-project.html)
 
