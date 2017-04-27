@@ -1,5 +1,5 @@
 ---
-title: Adding RESTful services to your app
+title: Adding RESTful services to your app 1
 description: Adding RESTful services to your app
 primary_tag: topic>java
 tags: [ products>sap-cloud-platform, topic>cloud, topic>java, tutorial>intermediate]
