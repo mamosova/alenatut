@@ -4,7 +4,7 @@ description: In this tutorial you will make your very first SAP HANA XSC applica
 tags: [ products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 primary_tag: topic>abap-development
 ---
-
+ 
 ## Prerequisites  
 You need a HANA account. Pick one of the following:
 - [Get a free account in HANA Cloud Platform](https://account.hanatrial.ondemand.com/register)
