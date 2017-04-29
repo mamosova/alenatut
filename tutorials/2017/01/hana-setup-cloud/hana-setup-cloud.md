@@ -4,7 +4,7 @@ description: This tutorial will help you create a HANA instance in one of the tw
 primary_tag: products>sap-hana
 tags: [ products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner, 231 ]
 ---
-
+ 
 ## Prerequisites  
  - You will need to have an account on either Microsoft Azure or Amazon AWS
 
@@ -24,7 +24,7 @@ This section takes about **10 minutes** to complete, and about **10 to 25 minute
 >Both the Amazon AWS and Microsoft Azure accounts will charge you for time on those cloud systems.
 >If you want to create a free developer account - with no cloud VM charges - on the HANA Cloud Platform, do not follow this tutorial. [Sign up for an account](http://go.sap.com/developer/tutorials/hcp-create-trial-account.html) here, and then proceed to the next tutorial.
 
-
+ 
 ---
 
 1. Create a cloud account:
