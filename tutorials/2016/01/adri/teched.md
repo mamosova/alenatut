@@ -7,7 +7,7 @@ primary_tag: topic>abap-development
   
 ## Prerequisites  
  - [Add an XML fragment for a tab in your app]
-
+ 
 ## Next Steps
  - [Translate your app into multiple languages]
 
