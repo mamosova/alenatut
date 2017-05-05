@@ -91,5 +91,13 @@ Press **F8** to run your program. An embedded SAP GUI will open inside of an Ecl
 [DONE]
 [ACCORDION-END]
 
+[ACCORDION-BEGIN [Step 8: ](Run ABAP Program new)]
+Press **F8** to run your program. An embedded SAP GUI will open inside of an Eclipse editor. After checking the output of the report click on the **Close** icon   to close the tab.
+
+![run program](abap-03-10.png)
+
+[DONE]
+[ACCORDION-END]
+
 ## Next Steps
 Create a global ABAP class and a DDIC structure for data retrieval (coming soon)
