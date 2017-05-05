@@ -55,6 +55,8 @@ Position the cursor in the class definition statement and press **Ctrl+1** to op
 [DONE]
 [ACCORDION-END]
 
+ TEST
+ 
 [ACCORDION-BEGIN [Step 4: ](Implement RUN method)]
 Add the definition of an additional instance method **run** in the public section. Position the cursor on the method name and press **Ctrl+1** to open the Quick-Fix menu. Double-click on **Add implementation for run**.
 
