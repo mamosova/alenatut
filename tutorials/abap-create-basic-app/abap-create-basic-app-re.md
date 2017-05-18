@@ -15,7 +15,7 @@ tags: [  tutorial>beginner, topic>abap-development, tutorial>t1, tutorial>t2 ]
 ## Details
 ### You will learn  
 In this tutorial you will learn how to create and run an ABAP application based on tables of the SAP NetWeaver Demo sample EPM Model (details in the SAP Community [The SAP NetWeaver Enterprise Procurement Model – An Introduction](https://archive.sap.com/documents/docs/DOC-31458). So you can reiterate the tutorial on any SAP NetWeaver 7.5 system.  
-
+ 
 
 ### Time to Complete
 **5-10 Min**.
