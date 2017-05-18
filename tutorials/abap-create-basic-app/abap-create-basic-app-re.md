@@ -4,7 +4,7 @@ description: Create and run an ABAP application based on tables from the sample 
 primary_tag: topic>abap-development
 tags: [  tutorial>beginner, topic>abap-development, tutorial>t1, tutorial>t2 ]
 ---
- 
+  
 ## Prerequisites  
 [Create an ABAP project in Eclipse](http://www.sap.com/developer/tutorials/abap-create-project.html)
 
