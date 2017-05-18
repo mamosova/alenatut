@@ -7,7 +7,7 @@ tags: [  tutorial>beginner, topic>abap-development, tutorial>t1 ]
 
 ## Prerequisites  
  - Download and install the latest Eclipse IDE from [Eclipse ](http://www.eclipse.org/) site
-
+ 
 ## Next Steps
 [Display database content and run SQL queries](http://www.sap.com/developer/tutorials/abap-display-data-queries.html)
 
