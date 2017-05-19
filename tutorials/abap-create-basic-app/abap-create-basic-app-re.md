@@ -22,7 +22,7 @@ In this tutorial you will learn how to create and run an ABAP application based 
 
 ---
 
-# TEST
+
  
 [ACCORDION-BEGIN [Step 1: ](Create New ABAP Program)]
 If you can't see the **$TMP** package in the Project Explorer expand your project node and the node **Favorite Packages**. Right-click on the package **$TMP** to open the context menu. Select **New** and click on **ABAP Program**.
