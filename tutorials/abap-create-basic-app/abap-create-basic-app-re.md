@@ -22,6 +22,8 @@ In this tutorial you will learn how to create and run an ABAP application based 
 
 ---
 
+# TEST
+ 
 [ACCORDION-BEGIN [Step 1: ](Create New ABAP Program)]
 If you can't see the **$TMP** package in the Project Explorer expand your project node and the node **Favorite Packages**. Right-click on the package **$TMP** to open the context menu. Select **New** and click on **ABAP Program**.
 
@@ -55,8 +57,7 @@ Position the cursor in the class definition statement and press **Ctrl+1** to op
 [DONE]
 [ACCORDION-END]
 
- # TEST
- 
+
 [ACCORDION-BEGIN [Step 4: ](Implement RUN method)]
 Add the definition of an additional instance method **run** in the public section. Position the cursor on the method name and press **Ctrl+1** to open the Quick-Fix menu. Double-click on **Add implementation for run**.
 
