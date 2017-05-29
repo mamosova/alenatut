@@ -308,16 +308,6 @@ Run your application.  It will change the text from true or false to Available o
 [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [Step 18: ](Review additional information)]
-
-AngularJS:
-
-- [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - find a number of hosted web libraries, which can be loaded directly in your application without requiring a download.
-
-- [`ng-repeat`](https://docs.angularjs.org/api/ng/directive/ngRepeat) - the AngularJS loop function
-
-[DONE]
-[ACCORDION-END]
 
 ---
 ## Next Steps
