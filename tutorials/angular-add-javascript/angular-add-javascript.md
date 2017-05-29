@@ -307,7 +307,7 @@ Run your application.  It will change the text from true or false to Available o
 [DONE]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 18: ](Review additional information)]
+[ACCORDION-BEGIN [Step 19: ](Review additional information11)]
 
 AngularJS:
 
@@ -319,7 +319,7 @@ AngularJS:
 [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [Step 19: ](Review additional information111)]
+[ACCORDION-BEGIN [Step 18: ](Review additional information)]
 
 AngularJS:
 
