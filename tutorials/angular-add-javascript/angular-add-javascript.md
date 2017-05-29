@@ -318,6 +318,18 @@ AngularJS:
 [DONE]
 [ACCORDION-END]
 
+
+[ACCORDION-BEGIN [Step 19: ](Review additional information111)]
+
+AngularJS:
+
+- [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - find a number of hosted web libraries, which can be loaded directly in your application without requiring a download.
+
+- [`ng-repeat`](https://docs.angularjs.org/api/ng/directive/ngRepeat) - the AngularJS loop function
+
+[DONE]
+[ACCORDION-END]
+
 ---
 ## Next Steps
 - **Tutorials** [Separate the JavaScript and CSS Files](http://www.sap.com/developer/tutorials/angular-separate-files.html)
