@@ -55,7 +55,9 @@ You will add a map display to one of the tabs in your app and geolocate an addre
     Your final code should look like the screenshot below.
 
     ![image of final code for XML fragment](xml-view-final-code.png)
-[VALIDATE 1]
+    
+[DONE]
+
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 3](Update the Formatter JavaScript)]
@@ -86,7 +88,9 @@ You will add a map display to one of the tabs in your app and geolocate an addre
     Your final code should look like the screenshot below.
 
     ![image of final code for Formatter js model ](js-model-final-code.png)
-[VALIDATE 2]
+    
+[DONE]
+
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 4](Run your application)]
@@ -101,7 +105,9 @@ Follow the below steps to make your map more unique.
 
 [ACCORDION-BEGIN [STEP 5](Read about Styled Google Maps API)]
 1. You can modify the URL created in the `formatter.js` to change features in the outputted map image. You can modify the URL to include a new `style`. You can modify the `style` by indicating the `feature` to update, the `element` within the feature to modify, and the `color` to change the element to. For more information on styling the map with Google, visit their [Styled Maps API Documentation](https://developers.google.com/maps/documentation/static-maps/styling).
+
 [DONE]
+
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 6](Add color to your map)]
@@ -115,7 +121,9 @@ Follow the below steps to make your map more unique.
     ```
 
     The `feature` indicates that you want to update the highways. The `element` indicates that you want to change the styling of the geometry on the highways. And the `color` indicates which color the geometry of the highways should display as.
+    
 [DONE]
+
 [ACCORDION-END]
 
 ## Next Steps
