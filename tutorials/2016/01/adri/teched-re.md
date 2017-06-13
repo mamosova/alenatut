@@ -97,7 +97,9 @@ You will add a map display to one of the tabs in your app and geolocate an addre
 4. Run your app. When you click on an item for more details, your page should look like the image below.
 
     ![Sample of the map from the Google Static Maps API Call](map-output.png)
+    
 [DONE]
+
 [ACCORDION-END]
 
 ### Optional
