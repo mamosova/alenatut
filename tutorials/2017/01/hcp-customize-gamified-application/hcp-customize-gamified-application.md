@@ -100,7 +100,7 @@ In this tutorial, you will tweak the game mechanics of the HelpDesk application 
     ![Help Button](16.png)
 
     Then clicking **Open HelpDesk** from the pop-up window.
-
+   
     ![Open HelpDesk](17.png)
 
 17. Select **continue** when the home screen of the sample gamified HelpDesk application appears.
