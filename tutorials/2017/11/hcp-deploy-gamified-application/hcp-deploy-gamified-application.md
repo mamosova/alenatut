@@ -21,7 +21,7 @@ In this tutorial, you will retrieve the gamified HelpDesk application from GitHu
 **15 Min**.
 
 ---
-
+ 
 1. Download the [ZIP file of the sources](https://github.com/SAP/gamification-demo-app/archive/master.zip) of the gamified HelpDesk application from [GitHub](https://github.com/SAP/gamification-demo-app).
 
     ![Download Zip](1.png)
