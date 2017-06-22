@@ -21,7 +21,7 @@ In this tutorial series, we will explore another technology for Single Page Appl
 ---
 #### AngularJS series
 Set up [Bootstrap forms](https://getbootstrap.com/css/#forms) for our application.  We will use the form in our new detail modal dialog box, to organize the information.
-
+ 
 ---
 
 ### Update the Modal with a Form
