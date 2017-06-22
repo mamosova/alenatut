@@ -20,7 +20,7 @@ tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering
  - Create extended storage for the Dynamic Tiering host.
 
 ### Time to Complete
-**10 Min**.
+**125 Min**.
 
 ---
 
