@@ -17,7 +17,7 @@ In this tutorial series, we will explore another technology for Single Page Appl
 
 ### Time to Complete
 **15 Min**.
-
+ 
 ---
 #### AngularJS series
 Start working with other Angular components, starting with the [AngularJS Filter](https://docs.angularjs.org/api/ng/filter/filter).  In this tutorial, we will:
