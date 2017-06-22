@@ -16,7 +16,7 @@ tags: [  tutorial>beginner, topic>abap-development, tutorial>t1 ]
 In this tutorial you will learn how to configure your ABAP development environment and create your first ABAP project.
 
 ### Time to Complete
-**10 Min**.
+**115 Min**.
 
 
 ---
