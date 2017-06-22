@@ -18,6 +18,7 @@ In this tutorial you will learn how to configure your ABAP development environme
 ### Time to Complete
 **10 Min**.
 
+
 ---
 
 [ACCORDION-BEGIN [Step 1: ](Download, Install and launch the Eclipse IDE)]
