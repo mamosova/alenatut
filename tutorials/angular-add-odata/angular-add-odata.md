@@ -17,7 +17,7 @@ In this tutorial series, we will explore another technology for Single Page Appl
 
 ### Time to Complete
 **10 Min**.
-
+ 
 ---
 #### AngularJS series
 Start to work with the `$http` service.  This service provides a way to asynchronously get data from a server.  We will be using the [public Northwind test data service](http://www.odata.org/) to provide this test data.
