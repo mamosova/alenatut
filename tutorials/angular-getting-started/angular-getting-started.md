@@ -18,7 +18,7 @@ In this tutorial series, we will explore another technology for Single Page Appl
 
 ### Time to Complete
 **15 Min**.
-
+ 
 ---
 #### AngularJS series
 Connect to the SAP Web IDE (free for development use), and then get a simple project set up for our future tutorials.
