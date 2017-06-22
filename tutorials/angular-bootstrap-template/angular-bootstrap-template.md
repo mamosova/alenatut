@@ -20,7 +20,7 @@ Developers writing the HTML5 front-end to modern web applications have many choi
 In this tutorial series, we will explore another technology for SPA development - AngularJS (which we will just call Angular).  Angular is a popular web framework, and is used by many companies.  This series will build a simple web front end, and connect that to OData services.
 ### Time to Complete
 **10 Min**.
-
+ 
 ---
 #### AngularJS series
 Set up a template using [Bootstrap](https://getbootstrap.com/), a very popular open source layout system from Twitter.  Bootstrap makes it easy to create good looking web forms without manually writing a lot of CSS, and also has JavaScript tools for creating dialog boxes and other screen elements.  
