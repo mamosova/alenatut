@@ -17,7 +17,7 @@ In this tutorial series, we will explore another technology for Single Page Appl
 
 ### Time to Complete
 **15 Min**.
-
+ 
 ---
 #### AngularJS series
 **Step 6**: Add additional screens to our Angular application.  First, we will add a header to our list box, and second, we will add a Detail dialog box when the user clicks on a row.
