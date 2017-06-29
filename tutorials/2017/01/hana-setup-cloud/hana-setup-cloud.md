@@ -27,7 +27,7 @@ This section takes about **10 minutes** to complete, and about **10 to 25 minute
  
 ---
 
-1. Create a cloud account:
+1. Create a cloud account: 
 
     - **Amazon AWS**:  To create an account, please visit [Amazon AWS](http://aws.amazon.com/account/)
 
