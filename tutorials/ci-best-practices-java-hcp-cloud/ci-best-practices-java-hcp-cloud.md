@@ -15,7 +15,7 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 ---
 
 
-### 1. Introduction
+### 1. Introduction 
 
 This section is a continuation of the discussion in [Generic Project (Pure Java) Using Cloud Services](http://www.sap.com/developer/tutorials/ci-best-practices-generic-cloud.html), applying the approach using GitHub and Travis CI as cloud services to process sample code that is delivered as part of the SDK installation for Java Web development. The sample discussed here contains some web applications that are built using Maven and share a common parent `pom.xml` file. Documentation and resources for Java web application development include the following:
 
