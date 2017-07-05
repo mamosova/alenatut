@@ -16,7 +16,7 @@ tags: [  tutorial>beginner, topic>mobile, topic>odata, products>sap-cloud-platfo
 In this tutorial series, we will explore another technology for Single Page Application (SPA) development - AngularJS (or just Angular).  Angular is a popular web framework in North America, and is used by many companies for both internal and client-facing systems.  These tutorials will parallel our SAPUI5 tutorials, building a visual interface using Angular, and connecting it to an OData back end service.
 
 ### Time to Complete
-**10 Min**.
+**60 Min**.
  
 ---
 #### AngularJS series
