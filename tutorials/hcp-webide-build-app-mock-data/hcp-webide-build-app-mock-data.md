@@ -24,7 +24,7 @@ The steps in this tutorial assume that you are familiar with the Web IDE menu an
 
 ### Time to Complete
 
-**15 Min**.
+** 15 Min**.
 
 ---
 
