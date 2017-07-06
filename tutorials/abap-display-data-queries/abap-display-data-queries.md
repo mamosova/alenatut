@@ -21,7 +21,7 @@ The tutorial starts from scratch based on tables of the SAP NetWeaver Demo sam
 
 
 ### Time to Complete
-**61 Min**.
+** y 61 Min**.
 
 ---
 
