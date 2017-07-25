@@ -17,7 +17,7 @@ primary_tag: topic>abap-development
 ### You will learn  
 In this tutorial you will learn how to use Data Preview to display the content of tables and views and SQL Console to perform ad hoc SQL queries.
 
-The tutorial starts from scratch based on tables of the SAP NetWeaver Demo sample EPM Model (you can find details in the SAP Community [The NetWeaver Enterprise Procurement Model – An Introduction](https://archive.sap.com/documents/docs/DOC-31458) ), so you can repeat the tutorial on any SAP NetWeaver 7.5 system.
+The tutorial starts from scratch based on tcables of the SAP NetWeaver Demo sample EPM Model (you can find details in the SAP Community [The NetWeaver Enterprise Procurement Model – An Introduction](https://archive.sap.com/documents/docs/DOC-31458) ), so you can repeat the tutorial on any SAP NetWeaver 7.5 system.
 
 
 ### Time to Complete
